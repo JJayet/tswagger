@@ -1,0 +1,10 @@
+{
+  "eslint.run": "onSave",
+  "editor.formatOnSave": true,
+  "editor.codeActionsOnSave": {
+    "source.fixAll": true
+  },
+  "editor.tabSize": 2,
+  "typescript.format.semicolons": "remove",
+  "typescript.tsdk": "node_modules/typescript/lib"
+}

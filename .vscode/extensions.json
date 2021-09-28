@@ -1,0 +1,9 @@
+{
+  "recommendations": [
+    "coenraads.bracket-pair-colorizer-2",
+    "dbaeumer.vscode-eslint",
+    "eamodio.gitlens",
+    "oderwat.indent-rainbow",
+    "pkief.material-icon-theme"
+  ]
+}
